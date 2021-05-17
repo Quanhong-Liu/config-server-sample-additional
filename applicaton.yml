@@ -1,0 +1,4 @@
+application:
+    message: Configured by Spring Cloud Config Server changed additional
+my:
+    config: my random config additional
